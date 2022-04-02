@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPrueba", "ApiPrueba\ApiPrueba.csproj", "{35A628EF-C91B-40B8-905D-577130D05C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api-Tests", "Api-Tests\Api-Tests.csproj", "{D920E7D0-BDF3-4C85-8B93-481410778DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A628EF-C91B-40B8-905D-577130D05C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A628EF-C91B-40B8-905D-577130D05C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A628EF-C91B-40B8-905D-577130D05C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A628EF-C91B-40B8-905D-577130D05C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D920E7D0-BDF3-4C85-8B93-481410778DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D920E7D0-BDF3-4C85-8B93-481410778DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D920E7D0-BDF3-4C85-8B93-481410778DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D920E7D0-BDF3-4C85-8B93-481410778DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776B5973-387F-49FD-AACC-7268966B3C23}
+	EndGlobalSection
+EndGlobal
